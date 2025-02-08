@@ -1,5 +1,7 @@
 "use client";
 
+import { Copyright, Github, Linkedin } from "lucide-react";
+import Link from "next/link";
 import { useEffect, useRef, useState } from "react";
 const articles = [
   {
@@ -271,6 +273,23 @@ export default function Home() {
               </div>
             </div>
           </div>
+        </div>
+        <div className="flex flex-row pt-2 justify-center gap-2">
+          <span className="flex flex-row">
+            <Copyright width={16} /> ericksousa
+          </span>
+          <Link href={"https://github.com/ericksoumes"}>
+            <Github
+              width={16}
+              className="hover:text-[#eaec23] cursor-pointer"
+            />
+          </Link>
+          <Link href={"https://www.linkedin.com/in/ericksoumes/"}>
+            <Linkedin
+              width={16}
+              className="hover:text-[#eaec23] cursor-pointer"
+            />
+          </Link>
         </div>
       </main>
     </div>
