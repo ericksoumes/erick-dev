@@ -3,6 +3,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "erick@dev:~",
+  icons: "/favicon.svg",
 };
 
 export default function RootLayout({
