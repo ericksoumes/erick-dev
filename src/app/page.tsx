@@ -177,13 +177,14 @@ export default function Home() {
             <p>
               ➜{" "}
               <a
-                href="https://myportfolio.com"
+                href="https://ericksousa.dev.br"
                 target="_blank"
                 className="text-green-400 hover:underline"
               >
                 Live Demo
               </a>
             </p>
+            <p>More to come soon!</p>
           </div>
         </>
       );
