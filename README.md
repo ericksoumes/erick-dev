@@ -1,36 +1,46 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Portfolio - Erick Sousa
 
-## Getting Started
+Welcome to my interactive terminal-style portfolio!
 
-First, run the development server:
+This project is a unique way to showcase my background, skills, and projects using a Linux-like terminal interface built with **Next.js**, **React**, and **TypeScript**.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## ✨ Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- 🖥️ Terminal-inspired UI for a developer-focused experience  
+- 📄 About section describing my background and learning path  
+- 💼 Projects list with live demo links  
+- 📝 Blog with personal stories and technical articles  
+- 📬 Contact info directly accessible via terminal commands
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🧠 Commands
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- `help` — Show available commands  
+- `about` — Learn more about me and my journey  
+- `projects` — See my personal and academic projects  
+- `blog` — Read my articles and posts  
+- `read <id>` — Read a full blog article by ID  
+- `contact` — View my contact information  
+- `clear` — Clear the terminal output
 
-## Learn More
+## 📚 Tech Stack
 
-To learn more about Next.js, take a look at the following resources:
+- **Next.js 13+** (App Router)  
+- **React**  
+- **TypeScript**  
+- **Tailwind CSS**  
+- **Lucide Icons**
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📎 Live Demo
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+👉 [https://ericksousa.dev.br](https://ericksousa.dev.br)
 
-## Deploy on Vercel
+## 📫 Contact
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- **Email**: erigomes05@gmail.com  
+- **Phone**: +55 19 98710-2555  
+- **GitHub**: [@ericksoumes](https://github.com/ericksoumes)  
+- **LinkedIn**: [Erick Sousa](https://www.linkedin.com/in/ericksoumes/)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+Feel free to explore the terminal and get to know more about me!
