@@ -21,6 +21,7 @@ This project is a unique way to showcase my background, skills, and projects usi
 - `read <id>` — Read a full blog article by ID  
 - `contact` — View my contact information  
 - `clear` — Clear the terminal output
+- `help` — See all the commands
 
 ## 📚 Tech Stack
 
