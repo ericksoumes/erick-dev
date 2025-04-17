@@ -162,6 +162,15 @@ export default function Home() {
             </span>{" "}
             → Clear the terminal
           </p>
+          <p>
+            <span
+              onClick={() => handleKeyDown(undefined, "help")}
+              className="text-green-400 hover:underline cursor-pointer"
+            >
+              help
+            </span>{" "}
+            → See all commands
+          </p>
         </>
       );
     }
